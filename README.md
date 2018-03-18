@@ -1,0 +1,1 @@
+twrp_android_device_samsung_star2qlte
