@@ -12,6 +12,7 @@
 /modemst2	emmc	/dev/block/bootdevice/by-name/modemst2					flags=backup=1;subpartitionof=/efs
 /efsc		emmc	/dev/block/bootdevice/by-name/fsc					flags=backup=1;subpartitionof=/efs
 /efsg		emmc	/dev/block/bootdevice/by-name/fsg					flags=backup=1;subpartitionof=/efs
+/odm		ext4	/dev/block/bootdevice/by-name/odm	        flags=backup=1;display="Carrier Configs";flashimg
 /vendor		ext4	/dev/block/bootdevice/by-name/vendor
 /vendor_image	emmc	/dev/block/bootdevice/by-name/vendor			flags=backup=1
 
