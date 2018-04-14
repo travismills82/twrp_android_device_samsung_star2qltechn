@@ -1,0 +1,14 @@
+[
+        {
+        	"repository": "LineageOS/android_hardware_samsung",
+        	"target_path": "hardware/samsung",
+		"remote":"github",
+		"revision":"lineage-15.1"
+	},
+	{
+                "remote":"github",
+    		"repository": "TeamWin/android_device_qcom_common",
+    		"target_path": "device/qcom/common",
+    		"revision":"android-8.0"
+	}	
+]
