@@ -1,2 +1,2 @@
 sys.usb.controller=a600000.dwc3
-ro.hardware.keystore=mdfpp
+persist.sys.usb.config=mtp
